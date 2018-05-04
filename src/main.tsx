@@ -1,7 +1,6 @@
 import React from 'react'
 import { render } from 'react-dom'
 
-import './style/main.styl'
 import './common'
 
 import { RootComponent } from 'root'
