@@ -1,0 +1,250 @@
+[
+  {
+    "timeStamp": 1527776154050,
+    "time": 3212,
+    "hash": "a381459f162bb14377a6",
+    "errors": [],
+    "size": 644792,
+    "assets": [
+      {
+        "name": "js/common.86f5145c.js",
+        "chunks": [
+          0
+        ],
+        "size": 319841,
+        "minified": true
+      },
+      {
+        "name": "js/main.287ec0e7.js",
+        "chunks": [
+          1
+        ],
+        "size": 324162,
+        "minified": true
+      },
+      {
+        "name": "css/main.287ec0e7.css",
+        "chunks": [
+          1
+        ],
+        "size": 40
+      },
+      {
+        "name": "index.html",
+        "chunks": [],
+        "size": 749
+      }
+    ],
+    "chunks": [
+      {
+        "size": 128312,
+        "files": [
+          "js/common.86f5145c.js"
+        ],
+        "modules": [
+          {
+            "name": "./node_modules/react/index.js",
+            "size": 190,
+            "id": 0
+          },
+          {
+            "name": "./node_modules/tslib/tslib.es6.js",
+            "size": 8396,
+            "id": 1
+          },
+          {
+            "name": "./node_modules/object-assign/index.js",
+            "size": 2108,
+            "id": 2
+          },
+          {
+            "name": "./node_modules/fbjs/lib/invariant.js",
+            "size": 1506,
+            "id": 3
+          },
+          {
+            "name": "./node_modules/fbjs/lib/emptyObject.js",
+            "size": 332,
+            "id": 4
+          },
+          {
+            "name": "./node_modules/fbjs/lib/emptyFunction.js",
+            "size": 959,
+            "id": 5
+          },
+          {
+            "name": "./node_modules/react-dom/index.js",
+            "size": 1363,
+            "id": 6
+          },
+          {
+            "name": "./src/common.ts",
+            "size": 73,
+            "id": 7
+          },
+          {
+            "name": "./node_modules/react/cjs/react.production.min.js",
+            "size": 5668,
+            "id": 8
+          },
+          {
+            "name": "./node_modules/react-dom/cjs/react-dom.production.min.js",
+            "size": 101020,
+            "id": 9
+          },
+          {
+            "name": "./node_modules/fbjs/lib/ExecutionEnvironment.js",
+            "size": 935,
+            "id": 10
+          },
+          {
+            "name": "./node_modules/fbjs/lib/getActiveElement.js",
+            "size": 912,
+            "id": 11
+          },
+          {
+            "name": "./node_modules/fbjs/lib/shallowEqual.js",
+            "size": 1616,
+            "id": 12
+          },
+          {
+            "name": "./node_modules/fbjs/lib/containsNode.js",
+            "size": 923,
+            "id": 13
+          },
+          {
+            "name": "./node_modules/fbjs/lib/isTextNode.js",
+            "size": 479,
+            "id": 14
+          },
+          {
+            "name": "./node_modules/fbjs/lib/isNode.js",
+            "size": 702,
+            "id": 15
+          },
+          {
+            "name": "./node_modules/classnames/index.js",
+            "size": 1102,
+            "id": 16
+          },
+          {
+            "name": "multi ./src/common",
+            "size": 28,
+            "id": 18
+          }
+        ]
+      },
+      {
+        "size": 129838,
+        "files": [
+          "js/main.287ec0e7.js",
+          "css/main.287ec0e7.css"
+        ],
+        "modules": [
+          {
+            "name": "./node_modules/react/index.js",
+            "size": 190,
+            "id": 0
+          },
+          {
+            "name": "./node_modules/tslib/tslib.es6.js",
+            "size": 8396,
+            "id": 1
+          },
+          {
+            "name": "./node_modules/object-assign/index.js",
+            "size": 2108,
+            "id": 2
+          },
+          {
+            "name": "./node_modules/fbjs/lib/invariant.js",
+            "size": 1506,
+            "id": 3
+          },
+          {
+            "name": "./node_modules/fbjs/lib/emptyObject.js",
+            "size": 332,
+            "id": 4
+          },
+          {
+            "name": "./node_modules/fbjs/lib/emptyFunction.js",
+            "size": 959,
+            "id": 5
+          },
+          {
+            "name": "./node_modules/react-dom/index.js",
+            "size": 1363,
+            "id": 6
+          },
+          {
+            "name": "./src/common.ts",
+            "size": 73,
+            "id": 7
+          },
+          {
+            "name": "./node_modules/react/cjs/react.production.min.js",
+            "size": 5668,
+            "id": 8
+          },
+          {
+            "name": "./node_modules/react-dom/cjs/react-dom.production.min.js",
+            "size": 101020,
+            "id": 9
+          },
+          {
+            "name": "./node_modules/fbjs/lib/ExecutionEnvironment.js",
+            "size": 935,
+            "id": 10
+          },
+          {
+            "name": "./node_modules/fbjs/lib/getActiveElement.js",
+            "size": 912,
+            "id": 11
+          },
+          {
+            "name": "./node_modules/fbjs/lib/shallowEqual.js",
+            "size": 1616,
+            "id": 12
+          },
+          {
+            "name": "./node_modules/fbjs/lib/containsNode.js",
+            "size": 923,
+            "id": 13
+          },
+          {
+            "name": "./node_modules/fbjs/lib/isTextNode.js",
+            "size": 479,
+            "id": 14
+          },
+          {
+            "name": "./node_modules/fbjs/lib/isNode.js",
+            "size": 702,
+            "id": 15
+          },
+          {
+            "name": "./node_modules/classnames/index.js",
+            "size": 1102,
+            "id": 16
+          },
+          {
+            "name": "./src/root/root.component.styl",
+            "size": 92,
+            "id": 17
+          },
+          {
+            "name": "multi ./src/main",
+            "size": 28,
+            "id": 19
+          },
+          {
+            "name": "./src/main.tsx + 2 modules",
+            "size": 1434,
+            "id": 20
+          }
+        ]
+      }
+    ],
+    "pureCssSize": 40,
+    "unPureCssSize": 40
+  }
+]
