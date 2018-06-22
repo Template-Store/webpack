@@ -74,8 +74,14 @@ module.exports = webpackMerge(commonConfig, {
               loader: 'css-loader',
               options: cssOption
             },
-            'sass-loader',
-            'postcss-loader'
+            {
+              loader: 'postcss-loader',
+              query: 'sourceMap=true'
+            },
+            {
+              loader: 'stylus-loader',
+              query: 'sourceMap=true'
+            }
           ]
         })
       },
